@@ -1,0 +1,6 @@
+Singleton Design Pattern :
+
+1. Let developer can access object from ANYWHERE in our application
+2. On top of above one , they also encapsulate the attributes of this object in one single class and
+
+** guarantee that only one instance of this class will be available at any point in time **
